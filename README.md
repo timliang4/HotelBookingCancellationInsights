@@ -2,8 +2,6 @@
 
 Code written in collaboration with Forest Ho-Chen
 
-For CIS 5450 (Big Data Analytics) Final Project
-
 First, we train and evaluate various ML models to predict whether or not a hotel booking will be canceled based on various booking information.
 
 Second, we use interpretive ML models like logistic regression and decision trees to see the most important features in determining hotel booking cancellations.
